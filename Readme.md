@@ -2,7 +2,7 @@
 
 ### Realtime chat app using socket.io , NodeJs and Vanill Javascript.
 
-Demo : 
+Demo : https://wassup-chat-app-sachin.herokuapp.com/
 
 # Installation
 
